@@ -6,7 +6,7 @@
 <h3 align="center">Developer · Always building something new 🚀</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO" target="blank">
+  <a href="https://www.linkedin.com/in/ismael-cornejo-14186b296/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" />
   </a>
   <a href="https://github.com/Itshaize" target="blank">
@@ -60,7 +60,7 @@
 ## 📬 Contact with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO">
+  <a href="https://www.linkedin.com/in/ismael-cornejo-14186b296/">
     <img src="https://img.shields.io/badge/LinkedIn-tu%2Fperfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
@@ -92,3 +92,6 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 
+---
+
+Credits: [Haize](https://github.com/Itshaize)
