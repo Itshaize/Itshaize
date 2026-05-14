@@ -5,23 +5,17 @@
 
 ## 🧑‍💻 About me
 
-<table>
-  <tr>
-    <td>
-      <p>Developer passionate about building real things with software. I love learning new technologies and turning ideas into working projects.</p>
-      <ul>
-        <li>🔭 Working on projects with <code>Python</code>, <code>Node.js</code> & <code>PostgreSQL</code></li>
-        <li>🌱 Constantly learning and improving every day</li>
-        <li>🤝 Looking to collaborate on open source projects</li>
-        <li>💬 Ask me anything — happy to help if I can!</li>
-        <li>⚡ Fun fact: I debug in my head before touching the keyboard</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhndW13bGt6am85dGM4bDN0YXA4cW1meDAyczJ6b3c1cGg1eXNibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HEYSwcwvisyqj0CNnD/giphy.gif" width="250"/>
-    </td>
-  </tr>
-</table>
+<img align="right" width="220" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhndW13bGt6am85dGM4bDN0YXA4cW1meDAyczJ6b3c1cGg1eXNibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HEYSwcwvisyqj0CNnD/giphy.gif"/>
+
+Developer passionate about building real things with software. I love learning new technologies and turning ideas into working projects.
+
+- 🔭 Working on projects with `Python`, `Node.js` & `PostgreSQL`
+- 🌱 Constantly learning and improving every day
+- 🤝 Looking to collaborate on open source projects
+- 💬 Ask me anything — happy to help if I can!
+- ⚡ Fun fact: I debug in my head before touching the keyboard
+
+<br clear="right"/>
 
 ---
 
@@ -50,20 +44,9 @@
 ## 📬 Contact with me
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://linkedin.com/in/TU_USUARIO">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-          <br/><sub><b>LinkedIn</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Itshaize">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
-          <br/><sub><b>GitHub</b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tu%2Fperfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Itshaize-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itshaize)
+
 </div>
