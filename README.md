@@ -30,8 +30,8 @@ I love learning new technologies and turning ideas into working projects.
 ## 📊 GitHub Stats
 
 <div>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Itshaize&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itshaize&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=Itshaize&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Itshaize&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ## 📬 Contact with me
