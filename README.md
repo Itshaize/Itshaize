@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ismael-cornejo-14186b296/">
-    <img src="https://img.shields.io/badge/LinkedIn-tu%2Fperfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Ismael%20Cornejo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/Itshaize">
