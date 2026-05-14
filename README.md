@@ -3,9 +3,9 @@
 
 <br/>
 
-## 🧑‍💻 About me
-
 <img align="right" width="220" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhndW13bGt6am85dGM4bDN0YXA4cW1meDAyczJ6b3c1cGg1eXNibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HEYSwcwvisyqj0CNnD/giphy.gif"/>
+
+## 🧑‍💻 About me
 
 Developer passionate about building real things with software. I love learning new technologies and turning ideas into working projects.
 
